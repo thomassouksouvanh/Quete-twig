@@ -1,0 +1,13 @@
+{
+    "name": "thomas/twig",
+    "description": "quete twig",
+    "authors": [
+        {
+            "name": "thomassouksouvanh",
+            "email": "thomas.souksouvanh@sfr.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
